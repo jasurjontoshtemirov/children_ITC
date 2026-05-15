@@ -1,3 +1,24 @@
-git status = hozirgi holati ko'rsatib beradi
+Hozirgi holati ko'rsatib beradi
 
+```
+git status
+```
+
+
+```
 git init = Git ga qoshish
+```
+
+
+
+Faylni qoshish
+```
+git add . yoki git add - A
+```
+
+
+Qo'shilgan fileni yuklashdagi tasifini yozamiz
+
+```
+git commit -m "o'zgarish yoziladi"
+```
